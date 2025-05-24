@@ -1,0 +1,24 @@
+BANCO,EMISORA,SERVICIO,CANAL DE ENVIO,TIPO ENVIO,COBROS,HORARIOS LIMITE CARGA BANCARIA,Column1,HORARIOS DE COBRO EN BANCO POR DIA,OBSERVACIONES
+BBVA MEXICO,4750,TRADICIONAL BANCA,CLABE,TOTAL Y PARCIAL,08:00 A 15:30,03:00,,Las respuestas se obtienen durante 6 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo,
+BBVA MEXICO,4750,INTERBANCA BANCA,CLABE,TOTAL Y PARCIAL,08:00 A 15:30,19:00 A 20:00,,La respuesta se obtiene al siguiente dia en el que fue enviado el archivo,
+BBVA MEXICO,5923,PARCIAL,BANCA,CLABE,TOTAL Y PARCIAL,08:00 A 15:30,,19:15,Las respuestas se obtienen durante 6 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo
+BBVA MEXICO,5503,MATUTINO,BANCA,CLABE CUENTA,TOTAL Y PARCIAL,08:00 A 15:30,,03:30,Las respuestas se obtienen durante 6 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo
+BBVA MEXICO,7456,EN LINEA,BANCA,CLABE CUENTA,TOTAL Y PARCIAL,06:00 A 20:15,,06:00 A 20:15,La respuesta se obtiene 30 minutos despues de que se hace el envio a cobro
+BBVA MEXICO,7167,TRADICIONAL H2H,CLABE CUENTA,TOTAL Y PARCIAL,08:00 A 15:25,19:15,,Las respuestas se obtienen durante 6 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo,
+BBVA MEXICO,7167,INTERBANCA H2H,CLABE,TOTAL Y PARCIAL,08:00 A 15:25,19:00 A 20:00,,La respuesta se obtiene al siguiente dia en el que fue enviado el archivo,
+BBVA MEXICO,6111,PARCIAL,H2H,CLABE CUENTA,TOTAL Y PARCIAL,08:00 A 15:25,,19:15,Las respuestas se obtienen durante 6 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo
+BBVA MEXICO,6114,MATUTINO,H2H,CLABE CUENTA,TOTAL Y PARCIAL,08:00 A 15:25,,03:30,Las respuestas se obtienen durante 6 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo
+BBVA MEXICO,7455,EN LINEA,H2H,CLABE CUENTA,TOTAL Y PARCIAL,06:00 A 20:00,,06:00 A 20:15,La respuesta se obtiene 30 minutos despues de que se hace el envio a cobro
+BANORTE,639,EN LINEA,BANCA,CLABE CUENTA,TOTAL Y PARCIAL,03:00 A 17:30,,03:00 A 17:30,La respuesta se obtiene 30 minutos despues de que se hace el envio a cobro
+BANORTE,496,TRADICIONAL BANCA,CLABE CUENTA,TOTAL Y PARCIAL,03:00 A 17:30,"06:00, 12:00, 18:00, 22:00",,Las respuestas se obtienen durante 8 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo,
+BANORTE,496,INTERBANCA BANCA,CLABE,TOTAL Y PARCIAL,08:00 A 17:30,19:00 A 20:00,,La respuesta se obtiene al siguiente dia en el que fue enviado el archivo,
+BANORTE,639,EN LINEA,H2H,CLABE CUENTA,TOTAL Y PARCIAL,03:00 A 17:20,,03:00 A 17:30,La respuesta se obtiene 30 minutos despues de que se hace el envio a cobro
+BANORTE,496,TRADICIONAL H2H,CLABE CUENTA,TOTAL Y PARCIAL,03:00 A 17:20,"06:00, 12:00, 18:00, 22:00",,Las respuestas se obtienen durante 8 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo,
+BANAMEX,N/A,TRADICIONAL BANCA,CLABE CUENTA TARJETA,TOTAL Y PARCIAL,08:00 A 14:59,08:00 A 15:00,,La respuesta se obtiene 30 minutos despues de que se hace el envio a cobro,
+BANAMEX,N/A,INTERBANCA BANCA,CLABE,TOTAL Y PARCIAL,08:00 A 14:59,19:00 A 20:00,,La respuesta se obtiene al siguiente dia en el que fue enviado el archivo,
+BANAMEX,N/A,TRADICIONAL H2H,CLABE CUENTA TARJETA,TOTAL Y PARCIAL,09:00 A 15:55,09:00 A 16:00,,La respuesta se obtiene 30 minutos despues de que se hace el envio a cobro,
+BANAMEX,N/A,INTERBANCA H2H,CLABE,TOTAL Y PARCIAL,09:00 A 15:55,19:00 A 20:00,,La respuesta se obtiene al siguiente dia en el que fue enviado el archivo,
+SANTANDER,623,TRADICIONAL BUZON (FILEZILLA),CLABE CUENTA,TOTAL Y PARCIAL,06:40 A 17:40,"07:00, 09:00, 10:00, 13:00, 15:00 y 18:00 hrs",,Las respuestas se obtienen durante 7 dias al finalizar el monitoreo (carrusel) se recibe la respuesta final y todos los creditos que se cargaron obtienen un motivo,
+SANTANDER,623,INTERBANCA BUZON (FILEZILLA),CLABE,TOTAL Y PARCIAL,06:00 A 17:30,19:00 A 20:00,,La respuesta se obtiene al siguiente dia en el que fue enviado el archivo,
+SANTANDER,20200,EN LINEA,H2H,CLABE CUENTA,TOTAL Y PARCIAL,06:40 A 17:40,,"07:00, 08:00, 09:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00 y 18:00",La respuesta se obtiene 30 minutos despues de que se hace el envio a cobro
+SANTANDER,20200,INTERBANCA H2H,CLABE,TOTAL Y PARCIAL,08:00 A 17:30,19:00 A 20:00,,La respuesta se obtiene al siguiente dia en el que fue enviado el archivo,
